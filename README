@@ -1,0 +1,45 @@
+
+#####  Info
+beanstalkd for windows
+
+version : 1.10
+
+fork form https://gitee.com/lomox/beanstalkd-win
+
+-----------------------------------------
+
+fork from https://github.com/beanstalkd/beanstalkd/tree/v1.10
+
+
+windows support
+require cygwin （automake  gcc）
+
+the makefile had edit to generat
+
+to build：
+make
+
+
+changgelog：
+v1
+    windows select suport
+    select size make 4096
+
+
+progress：  
+    iocp version ：https://github.com/LomoX-Offical/beanstalkd-win/tree/iocp
+    
+    
+
+developer：  张家柱 蔡东赟 
+mail: 
+ 272902071@qq.com
+ 286402937@qq.com 
+
+
+LICENSE: MIT
+
+Copyright © 2007-2013 the authors of beanstalkd.
+Copyright in contributions to beanstalkd is retained
+by the original copyright holder of each contribution.
+See file LICENSE for terms of use.
